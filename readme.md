@@ -62,16 +62,6 @@ Start the development server:
 npm run dev
 ```
 
-## 🔐 Environment Variables
-
-Do not commit your `.env` file to GitHub.
-
-Add it to `.gitignore`:
-
-```gitignore
-.env
-node_modules/
-```
 
 ## 📌 Future Improvements
 
